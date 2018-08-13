@@ -7,3 +7,5 @@
 # Merge funciton
 
 # git new-branch 1
+
+# git new-branch 2
